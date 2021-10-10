@@ -1,0 +1,40 @@
+1. Faça um algoritmo que mostre o passo a passo para trocar uma de lâmpada queimada.
+
+	1 - Testar se a lâmpada está mesmo queimada ou desligada;
+	2 - Se estiver queimada, comprar lâmpada nova;
+	3 - Pegar uma escada;
+	4 - Subir na escada e remover a lâmpada queimada;
+	5 - Descer da escada com a lâmpada queimada e pegar lâmpada nova;
+	6 - Subir novamente a escada com a lâmpada nova em mãos e colocá-la no bocal;
+	7 - Descer da escada e testar se a lâmpada está funcionando;
+	8 - Se sim, fim. Se não, repetir todo o processo a partir do passo 2.
+
+2. Faça um algoritmo que mostre o passo a passo para passear com seu animal de estimação.
+
+	1 - Pegar a coleira;
+	2 - Colocar a coleira no cão;
+	3 - Se cão for agressivo, pegar também um protetor para boca (mordaça);
+		3a - Colocar mordaça;
+	4 - Sair de casa segurando a coleira com o cão;
+	5 - Andar tranquilamente controlando o cão com calma;
+	6 - Após 1 km, fazer o caminho reverso até em casa;
+	7 - Entrar em casa e remover a coleira;
+	8 - Se o cão for agressivo, remover a mordaça;
+	9 - Dar água e comida para o cão;
+	10 - Fim.
+
+5. Faça um algoritmo que mostre o passo a passo para postar uma foto em um rede social
+
+	1 – Ligue o Celular
+	2 – abra o aplicativo da rede social
+	3 – abra o menu de nova postagem
+	4 – click em inserir nova imagem
+	5 – quando abrir a galeria de imagens 
+	6 – selecione uma foto 
+	7 – abra a foto no aplicativo
+	8 – estilize se necessário
+	9 – aplique as mudanças
+	10 – click em postar
+
+
+Cansei :).
